@@ -1,0 +1,60 @@
+Learn English
+├── Collocations
+│   ├── Adjective + Noun
+│   ├── Adverb + Adjective
+│   ├── Adverb + Verb
+│   ├── By Topic/Context
+│   │   ├── Academic Collocations
+│   │   ├── Business Collocations
+│   │   ├── Health Collocations
+│   │   ├── Social Collocations
+│   │   └── Travel Collocations
+│   ├── Noun + Verb
+│   ├── Prepositional Phrases
+│   └── Verb + Noun
+├── Grammar
+│   ├── Adjectives
+│   ├── Adverbs
+│   ├── Articles
+│   ├── Conjunctions
+│   ├── Modal Verbs
+│   ├── Nouns
+│   ├── Prepositions
+│   ├── Pronouns
+│   ├── Sentence Structure
+│   └── Verb Tenses
+├── Listening Comprehension
+│   ├── Conversations
+│   ├── Movies & TV Shows
+│   └── Podcasts
+├── Speaking Practice
+│   ├── AI Animation
+│   ├── Movies & TV Shows
+│   └── Random
+├── Topics
+│   ├── Animals
+│   ├── Appearance
+│   ├── Communication
+│   ├── Culture
+│   ├── Food & Drink
+│   ├── Functions
+│   ├── Health
+│   ├── Homes & Buildings
+│   ├── Leisure
+│   ├── Notions
+│   ├── People
+│   ├── Politics & Society
+│   ├── Science & Technology
+│   ├── Sport
+│   ├── The Natural World
+│   ├── Time & Space
+│   ├── Travel
+│   └── Work & Business
+└── Vocabulary
+    ├── Advanced
+    ├── Basic
+    ├── Idioms & Expressions
+    ├── Intermediate
+    ├── Phrasal Verbs
+    └── Topic-Specific Vocabulary
+        └── No data / Blank
