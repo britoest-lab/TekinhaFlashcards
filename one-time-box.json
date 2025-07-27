@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "⚡",
+    "tag": "Did You Know?",
+    "title_en": "You Forget 70% Of New Info Within 24 Hours",
+    "title_pt": "Você esquece 70% das informações novas em 24 horas",
+    "paragraph_en": "This is called the Ebbinghaus Forgetting Curve — most people forget 70% of what they learn in a day.",
+    "paragraph_pt": "Isso é chamado de Curva do Esquecimento de Ebbinghaus — a maioria das pessoas esquece 70% do que aprendem em um dia.",
+    "audio_en": "https://example.com/audio_en.mp3",
+    "audio_pt": "https://example.com/audio_pt.mp3"
+  },
+  {
+    "icon": "💡",
+    "tag": "Quick Fact",
+    "title_en": "Spaced Repetition Improves Retention",
+    "title_pt": "Repetição espaçada melhora a retenção",
+    "paragraph_en": "Reviewing material at spaced intervals helps move it to long-term memory.",
+    "paragraph_pt": "Revisar o conteúdo em intervalos espaçados ajuda a memorização de longo prazo.",
+    "audio_en": "https://example.com/audio2_en.mp3",
+    "audio_pt": "https://example.com/audio2_pt.mp3"
+  }
+]
