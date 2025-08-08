@@ -1,3 +1,4 @@
+[
 {
   "version": "v1.0.0",
   "date_time": "04/05/2025 23:41",
@@ -11,4 +12,19 @@
     "left_text": "SUPPORT ME",
     "right_text": "CONTACT ME"
   }
-}
+},
+  {
+  "version": "v1.0.0",
+  "date_time": "04/05/2025 23:41",
+  "contact": "tekinha_english@gmail.com",
+  "notes": "+400 cards has been added in the past months. Pls, consider supporting us by clicking the button down below :)",
+  "link": {
+    "left_link": "https://google.com",
+    "right_link": "mailto:tekinha_english@gmail.com"
+  },
+  "button": {
+    "left_text": "SUPPORT ME",
+    "right_text": "CONTACT ME"
+  }
+  }
+]
