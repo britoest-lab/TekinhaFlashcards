@@ -1,9 +1,9 @@
-[
+
 {
   "version": "v1.0.0",
-  "date_time": "04/05/2025 23:41",
+  "date_time": "08/07/25 19:00",
   "contact": "tekinha_english@gmail.com",
-  "notes": "+400 cards has been added in the past months. Pls, consider supporting us by clicking the button down below :)",
+  "notes": "Up to 10.000 cards to be added, hundreds of datasets about english. Plus, two features has been added: Synonyms (Beta) and Surprise Me (now you have custom type-ins features)",
   "link": {
     "left_link": "https://google.com",
     "right_link": "mailto:tekinha_english@gmail.com"
@@ -12,19 +12,4 @@
     "left_text": "SUPPORT ME",
     "right_text": "CONTACT ME"
   }
-},
-  {
-  "version": "v1.0.0",
-  "date_time": "04/05/2025 23:41",
-  "contact": "tekinha_english@gmail.com",
-  "notes": "+400 cards has been added in the past months. Pls, consider supporting us by clicking the button down below :)",
-  "link": {
-    "left_link": "https://google.com",
-    "right_link": "mailto:tekinha_english@gmail.com"
-  },
-  "button": {
-    "left_text": "SUPPORT ME",
-    "right_text": "CONTACT ME"
-  }
-  }
-]
+}
